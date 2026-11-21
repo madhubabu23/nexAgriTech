@@ -1,0 +1,1 @@
+'use client';export function LanguageSelector({value,onChange}:{value:string;onChange:(v:string)=>void}){return <select className="language-control" aria-label="Content language" value={value} onChange={e=>onChange(e.target.value)}><option value="en">English</option><option value="te">తెలుగు</option><option value="hi">हिन्दी</option></select>}

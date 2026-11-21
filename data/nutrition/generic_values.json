@@ -1,0 +1,5 @@
+{
+  "source_note": "Illustrative generic estimates per 100 g, not laboratory-tested and not a health claim.",
+  "tomato": {"calories_kcal": 18, "protein_g": 0.9, "fat_g": 0.2, "carbohydrate_g": 3.9, "fiber_g": 1.2},
+  "brinjal": {"calories_kcal": 25, "protein_g": 1.0, "fat_g": 0.2, "carbohydrate_g": 6.0, "fiber_g": 3.0}
+}

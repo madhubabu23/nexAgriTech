@@ -1,0 +1,8 @@
+{
+  "source_note": "Starter examples for the prototype; verify varieties and schedules with local agricultural guidance.",
+  "crops": [
+    {"name": "Tomato", "season": "regional", "stages": ["Nursery", "Vegetative", "Flowering", "Fruiting", "Harvest"]},
+    {"name": "Green chilli", "season": "regional", "stages": ["Nursery", "Vegetative", "Flowering", "Fruiting", "Harvest"]},
+    {"name": "Turmeric", "season": "regional", "stages": ["Land preparation", "Planting", "Vegetative", "Rhizome growth", "Harvest"]}
+  ]
+}

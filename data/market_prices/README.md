@@ -1,0 +1,1 @@
+Market prices seeded by the backend are illustrative demo values only. Store source, market, crop, unit, observation date and licensing/access notes for every real market observation. No live AGMARKNET/eNAM feed is configured.
